@@ -1,5 +1,5 @@
 # bolg-content
-https://leeyongjoo.tistory.com/ 블로그 포스팅 기록
+https://leeyongjoo.tistory.com/ 블로그 포스팅 기록 
 
 ## 공부하자
 - Python
